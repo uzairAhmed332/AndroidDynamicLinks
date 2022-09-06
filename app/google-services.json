@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970411893065",
+    "project_id": "dynamiclink-playground",
+    "storage_bucket": "dynamiclink-playground.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970411893065:android:1c8d137fa11eee33da3a98",
+        "android_client_info": {
+          "package_name": "com.test.dynamiclinksplayground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970411893065-l52f2h46bfin2c8clccu9nierapvgemc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZptQZgVlor0_j4K2pxaXW46vXCJhbi44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970411893065-l52f2h46bfin2c8clccu9nierapvgemc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
